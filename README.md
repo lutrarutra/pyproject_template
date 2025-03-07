@@ -1,6 +1,9 @@
 # pyproject_template
 Template repository for python modules/tools supporting pyproject.toml and conda recipe
 
+# Projects based on this:
+- [github.com/lutrarutra/compile_html](https://github.com/lutrarutra/compile_html)
+
 ## Installation
 - pip:
     ```bash
